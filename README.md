@@ -117,7 +117,3 @@ MediaPipe uses **21 hand landmarks**:
 ## Contributing
 Feel free to fork this project, open issues, and submit pull requests.  
 
----
-
-## License
-This project is licensed under the MIT License — free to use and modify.  
