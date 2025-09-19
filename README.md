@@ -98,7 +98,11 @@ MediaPipe uses **21 hand landmarks**:
 ---
 
 ## Demo (Screenshots / GIFs)
-👉 Add screenshots or a GIF showing the project running here.  
+<img width="250" height="250" alt="Screenshot 2025-09-20 034045" src="https://github.com/user-attachments/assets/137dcb2f-f4a7-4a54-936b-1edab3b98181" />
+<img width="250" height="250" alt="Screenshot 2025-09-20 034122" src="https://github.com/user-attachments/assets/27024660-4852-4fea-ad23-8499f2f25e4b" />
+<img width="250" height="250" alt="Screenshot 2025-09-20 034213" src="https://github.com/user-attachments/assets/25daa3e8-e5bf-4d4e-9f5f-765af0cdc888" />
+
+
 
 ---
 
