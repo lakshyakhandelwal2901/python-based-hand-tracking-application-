@@ -76,7 +76,7 @@ MediaPipe uses **21 hand landmarks**:
 | 13-16 | Ring finger  | MCP → PIP → DIP → Tip |
 | 17-20 | Pinky finger | MCP → PIP → DIP → Tip |
 
-<img width="500" height="600" alt="hand_landmarks_diagram" src="https://github.com/user-attachments/assets/359f6c7f-81f4-420b-a9dc-041eeb92522a" />
+<img width="350" height="425" alt="hand_landmarks_diagram" src="https://github.com/user-attachments/assets/359f6c7f-81f4-420b-a9dc-041eeb92522a" />
 
 
 📌 Example:  
